@@ -4,7 +4,7 @@ email: gal@dng.io
 description: > # this means to ignore newlines until "baseurl:"
   For Lev - That Never Fading Smile
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://balzohrd.github.io" # the base hostname & protocol for your site
+url: "https://thatneverfadingsmile.com" # the base hostname & protocol for your site
 twitter_username:
 github_username:
 
