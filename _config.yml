@@ -3,7 +3,7 @@ title: "That Never Fading Smile"
 email: gal@dng.io
 description: > # this means to ignore newlines until "baseurl:"
   For Lev - That Never Fading Smile
-baseurl: "/flapjack" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://balzohrd.github.io" # the base hostname & protocol for your site
 twitter_username:
 github_username:
@@ -15,7 +15,7 @@ highlighter: pygments
 
 # Pagination
 paginate: 10
-paginate_path: "blog/page/:num/"
+paginate_path: "/page:num/"
 
 # Minification
 sass:

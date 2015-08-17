@@ -8,7 +8,11 @@
 }
 .header-tittle {
     font-size: 50px;
-    font-family: $yellowtail
+    font-family: $yellowtail;
+    line-height: 1em;
+}
+.h-tittle {
+    font-family: $yellowtail;
 }
 .header-intro a, .header-intro a:visited {
     color: #aaa;
@@ -76,6 +80,19 @@
     border-radius: 80%;
     overflow: hidden;
     display: block;
+}
+
+.c-image{
+  display: block;
+    width: 100%;
+    max-width: 7em;
+    float: left;
+    margin: 0 1.2em 0 0;
+    border-radius: 100%;
+    overflow: hidden;
+    line-height: 0;
+    -webkit-shape-outside: circle(50%);
+    shape-outside: circle(50%);
 }
 
 .site-header {
@@ -340,7 +357,7 @@ Post List
     font-weight: bold;
     border-radius: 4px;
     padding: 7px 18px 6px;
-    box-shadow: 0 0 0 1px hsla(5, 84%, 64%, 1);
+    box-shadow: 0 0 0 1px hsla(210, 73%, 35%,1);
 }
 
 span.arrow {
