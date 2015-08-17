@@ -13,4 +13,4 @@ Endless love,
 Mauricio
 
 ---
-<p style="text-align:center;">Developed by <a href="http://dng.io">dng.io</a>. Powered by <a href="http://jekyllrb.com/">Jekyll</a> and <a href="https://soundcloud.com">Soundcloud</a>.</p>
+<p style="text-align:center;">Developed by <a href="http://dng.io" target="_blank">dng.io</a>. Powered by <a href="http://jekyllrb.com/">Jekyll</a> and <a href="https://soundcloud.com">Soundcloud</a>.</p>
