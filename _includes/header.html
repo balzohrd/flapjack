@@ -1,27 +1,14 @@
 
-
 <div class="header-container" id="header-container">
-
 <!-- Site navigation -->
   <nav class="site-nav">
-    <div class="trigger">
-      {% for page in site.pages %}
-        {% if page.title %}
-        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        {% endif %}
-      {% endfor %}
+    <div class="trigger"> {% for page in site.pages %} {% if page.title %}
+        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}{% endfor %}
       <a class="page-link" href="https://soundcloud.com/that-never-fading-smile" target="_blank"><i class="fa fa-soundcloud"></i></a>
     </div>
   </nav>
-
-  <!-- The title of the site -->
+<!-- title -->
   <header class="site-header">
-    <!--<a href="{{ site.baseurl }}/">
-      <div class="avatar">
-        <img src="{{ site.baseurl }}/assets/images/avatar.png" />
-      </div>
-    </a>-->
      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
   </header>
-
 </div>
