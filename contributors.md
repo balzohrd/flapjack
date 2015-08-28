@@ -3,7 +3,7 @@ layout: page
 title : Contributors
 team:
   - name: Gal Azencot
-    image_path: assets/images/gal_a.jpg
+    image_path: assets/images/gal_a.png
     position: Co-founder
     soundcloud: galaznct
     twitter_username:
@@ -11,7 +11,7 @@ team:
     instagram_username:
     site_link: https://dng.io/
   - name: Nicholas Byron
-    image_path: assets/images/nick_b.jpg
+    image_path: assets/images/nick_b.png
     position: Co-founder
     soundcloud: nbyronn
     twitter_username:
@@ -19,7 +19,7 @@ team:
     instagram_username: byrons_life
     site_link:
   - name: Mauricio Medina
-    image_path: assets/images/mauricio_m.jpg
+    image_path: assets/images/mauricio_m.png
     position: Co-founder
     soundcloud: mauricemedina-1
     twitter_username:
@@ -27,7 +27,7 @@ team:
     instagram_username:
     site_link:
   - name: Sebastian Medina
-    image_path: assets/images/seb_m.jpg
+    image_path: assets/images/seb_m.png
     position: Contributor
     soundcloud: sebastian-medina-33
     twitter_username: sebocuban09
