@@ -33,7 +33,15 @@ team:
     twitter_username: sebocuban09
     google_plus_link:
     instagram_username:
-    site_link:  
+    site_link:
+  - name: Andre Tufenkjian
+    image_path: assets/images/andre_t.png
+    position: Contributor
+    soundcloud: atuf25
+    twitter_username:
+    google_plus_link:
+    instagram_username:
+    site_link: https://www.facebook.com/andre.tufenkjian.5
 ---
 That Never Fading Smile is a collaboration between some of Lev’s closest friends. We are music lovers inspired by songs, riffs and lyrics of various genres from all around the world. Each contributor brings their own unique influence to the mix, See below for more information on each of us
 
