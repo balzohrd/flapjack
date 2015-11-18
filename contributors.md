@@ -11,7 +11,7 @@ team:
     instagram_username:
     site_link: https://dng.io/
   - name: Nicholas Byron
-    image_path: assets/images/nick_b.png
+    image_path: assets/images/nick_b.jpg
     position: Co-founder
     soundcloud: nbyronn
     twitter_username:
@@ -73,6 +73,14 @@ team:
     twitter_username:
     google_plus_link:
     instagram_username: wendi.spielman
+    site_link:
+  - name: Chris Yun
+    image_path: assets/images/chris_y.jpg
+    position: Contributor
+    soundcloud: chrisyun12
+    twitter_username:
+    google_plus_link:
+    instagram_username:
     site_link:
 
 ---
