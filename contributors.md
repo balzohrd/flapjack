@@ -98,6 +98,14 @@ team:
     google_plus_link:
     instagram_username:
     site_link:
+  - name: Zaid Moreno
+    image_path: assets/images/zaid_m.jpg
+    position: Contributor
+    soundcloud: zaid-moreno
+    twitter_username: MorenoZaid
+    google_plus_link:
+    instagram_username: zaidmoreno
+    site_link:
 
 ---
 That Never Fading Smile is a collaboration between some of Lev’s closest friends. We are music lovers inspired by songs, riffs and lyrics of various genres from all around the world. Each contributor brings their own unique influence to the mix, See below for more information on each of us
