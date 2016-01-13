@@ -3,7 +3,7 @@ layout: page
 title : Contributors
 team:
   - name: Gal Azencot
-    image_path: assets/images/gal_a.png
+    image_path: /assets/images/gal_a.png
     position: Co-founder
     soundcloud: galaznct
     twitter_username:
@@ -11,7 +11,7 @@ team:
     instagram_username:
     site_link: https://dng.io/
   - name: Nicholas Byron
-    image_path: assets/images/nick_b.jpg
+    image_path: /assets/images/nick_b.jpg
     position: Co-founder
     soundcloud: nbyronn
     twitter_username:
@@ -19,7 +19,7 @@ team:
     instagram_username: byrons_life
     site_link:
   - name: Mauricio Medina
-    image_path: assets/images/mauricio_m.png
+    image_path: /assets/images/mauricio_m.png
     position: Co-founder
     soundcloud: mauricemedina-1
     twitter_username:
@@ -27,7 +27,7 @@ team:
     instagram_username:
     site_link:
   - name: Sebastian Medina
-    image_path: assets/images/seb_m.png
+    image_path: /assets/images/seb_m.png
     position: Contributor
     soundcloud: sebastian-medina-33
     twitter_username: sebocuban09
@@ -35,7 +35,7 @@ team:
     instagram_username:
     site_link:
   - name: Andre Tufenkjian
-    image_path: assets/images/andre_t.png
+    image_path: /assets/images/andre_t.png
     position: Contributor
     soundcloud: atuf25
     twitter_username:
@@ -43,7 +43,7 @@ team:
     instagram_username:
     site_link: https://www.facebook.com/andre.tufenkjian.5
   - name: Nairi Mardirossian
-    image_path: assets/images/nairi_m.jpg
+    image_path: /assets/images/nairi_m.jpg
     position: Contributor
     soundcloud: nairi-mardirossian
     twitter_username:
@@ -51,7 +51,7 @@ team:
     instagram_username: nairi_talar
     site_link: https://www.facebook.com/nairi.mardirossian
   - name: Daniella Azencot
-    image_path: assets/images/dan.png
+    image_path: /assets/images/dan.png
     position: Contributor
     soundcloud:
     twitter_username: webremedies
@@ -59,7 +59,7 @@ team:
     instagram_username:
     site_link: https://dng.io/
   - name: Pamela Camacho
-    image_path: assets/images/pam_c.jpg
+    image_path: /assets/images/pam_c.jpg
     position: Contributor
     soundcloud: pacamacho
     twitter_username:
@@ -67,7 +67,7 @@ team:
     instagram_username:
     site_link:
   - name: Wendi Spielman
-    image_path: assets/images/wendi_s.jpg
+    image_path: /assets/images/wendi_s.jpg
     position: Contributor
     soundcloud:
     twitter_username:
@@ -75,7 +75,7 @@ team:
     instagram_username: wendi.spielman
     site_link:
   - name: Chris Yun
-    image_path: assets/images/chris_y.jpg
+    image_path: /assets/images/chris_y.jpg
     position: Contributor
     soundcloud: chrisyun12
     twitter_username:
@@ -83,7 +83,7 @@ team:
     instagram_username:
     site_link:
   - name: Satine Iskandaryan
-    image_path: assets/images/satine.jpg
+    image_path: /assets/images/satine.jpg
     position: Contributor
     soundcloud:
     twitter_username: sunbummm
@@ -91,7 +91,7 @@ team:
     instagram_username:
     site_link:
   - name: David Shaumyan
-    image_path: assets/images/david_s.jpg
+    image_path: /assets/images/david_s.jpg
     position: Contributor
     soundcloud:
     twitter_username: davoASAP
@@ -99,7 +99,7 @@ team:
     instagram_username:
     site_link:
   - name: Zaid Moreno
-    image_path: assets/images/zaid_m.jpg
+    image_path: /assets/images/zaid_m.jpg
     position: Contributor
     soundcloud: zaid-moreno
     twitter_username: MorenoZaid
@@ -107,7 +107,7 @@ team:
     instagram_username: zaidmoreno
     site_link:
   - name: Justin Nazerian
-    image_path: assets/images/justin_n.jpg
+    image_path: /assets/images/justin_n.jpg
     position: Contributor
     soundcloud: juniorpersian
     twitter_username:
@@ -115,7 +115,7 @@ team:
     instagram_username:
     site_link:
   - name: Loris Keshishyan
-    image_path: assets/images/loris_k.jpg
+    image_path: /assets/images/loris_k.jpg
     position: Contributor
     soundcloud:
     twitter_username: loriskeshishyan
@@ -123,7 +123,7 @@ team:
     instagram_username:
     site_link:
   - name: Alisher Baibussinov
-    image_path: assets/images/alisher_b.png
+    image_path: /assets/images/alisher_b.png
     position: Contributor
     soundcloud:
     twitter_username: 4lisherr

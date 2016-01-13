@@ -18,6 +18,9 @@ highlighter: pygments
 paginate: 10
 paginate_path: "/page:num/"
 
+# Gems
+gems: [jekyll-paginate]
+
 # Minification
 sass:
   style: compressed
