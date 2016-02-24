@@ -130,7 +130,14 @@ team:
     google_plus_link:
     instagram_username: 4lisher
     site_link:
-
+  - name: Shahe Thomas
+    image_path: /assets/images/shahe_t.jpg
+    position: Contributor
+    soundcloud: hahehomas
+    twitter_username: Shahe_T
+    google_plus_link:
+    instagram_username:
+    site_link:    
 ---
 That Never Fading Smile is a collaboration between some of Lev’s closest friends. We are music lovers inspired by songs, riffs and lyrics of various genres from all around the world. Each contributor brings their own unique influence to the mix, See below for more information on each of us
 
