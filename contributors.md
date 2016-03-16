@@ -142,10 +142,18 @@ team:
     image_path: /assets/images/kim_c.jpg
     position: Contributor
     soundcloud: chimmyken
-    twitter_username: 
+    twitter_username:
     google_plus_link:
     instagram_username:
-    site_link:  
+    site_link:
+  - name: Daryoush Rahimi
+    image_path: /assets/images/daryoush_r.jpg
+    position: Contributor
+    soundcloud:
+    twitter_username: Daryoush360
+    google_plus_link:
+    instagram_username:
+    site_link:   
 ---
 That Never Fading Smile is a collaboration between some of Lev’s closest friends. We are music lovers inspired by songs, riffs and lyrics of various genres from all around the world. Each contributor brings their own unique influence to the mix, See below for more information on each of us
 
