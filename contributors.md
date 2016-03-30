@@ -162,6 +162,14 @@ team:
     google_plus_link:
     instagram_username: _nicolebrooks_
     site_link:
+  - name: Dannie Waterford
+    image_path: /assets/images/dannie_w.jpg
+    position: Contributor
+    soundcloud:
+    twitter_username:
+    google_plus_link:
+    instagram_username: music.lovechild
+    site_link:
 ---
 That Never Fading Smile is a collaboration between some of Lev’s closest friends. We are music lovers inspired by songs, riffs and lyrics of various genres from all around the world. Each contributor brings their own unique influence to the mix, See below for more information on each of us
 
