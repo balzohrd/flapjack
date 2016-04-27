@@ -178,6 +178,14 @@ team:
     google_plus_link:
     instagram_username: cccccchloeeeeeeee
     site_link:
+  - name: Christie Waterford
+    image_path: /assets/images/christie_w.png
+    position: Contributor
+    soundcloud:
+    twitter_username:
+    google_plus_link:
+    instagram_username: christilandia
+    site_link: https://www.facebook.com/christie.waterford
 ---
 That Never Fading Smile is a collaboration between some of Lev’s closest friends. We are music lovers inspired by songs, riffs and lyrics of various genres from all around the world. Each contributor brings their own unique influence to the mix, See below for more information on each of us
 
